@@ -1,0 +1,127 @@
+{
+    "msg": "success",
+    "code": 200,
+    "data": [{
+        "product_line": [{
+            "equipment": [{
+                "name": "\u710a\u673a\u4e00",
+                "workshop_id": "59926b8ce9b5b33231a28001",
+                "factory_number": "782ABC292326",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "59926ba1e9b5b33231a28003",
+                "factory_time": "2014-8-5",
+                "product_number": "NBC-411",
+                "_id": "59926dabe9b5b33231a28010"
+            }],
+            "_id": "59926ba1e9b5b33231a28003",
+            "name": "\u710a\u673a\u4ea7\u7ebf\u4e00"
+        }],
+        "_id": "59926b8ce9b5b33231a28001",
+        "name": "\u710a\u673a\u8f66\u95f4\u4e09"
+    }, {
+        "product_line": [{
+            "equipment": [{
+                "name": "\u710a\u673a\u56db",
+                "workshop_id": "59926ba9e9b5b33231a28005",
+                "factory_number": "782ABC292328",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "5992a61fe9b5b3323127ffd5",
+                "factory_time": "2016-8-1",
+                "product_number": "NBC-500C",
+                "_id": "5994168ce9b5b340e885a641"
+            }, {
+                "name": "\u710a\u673a\u4e94",
+                "workshop_id": "59926ba9e9b5b33231a28005",
+                "factory_number": "782ABC292325",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "5992a61fe9b5b3323127ffd5",
+                "factory_time": "2014-8-4",
+                "product_number": "NBC-411",
+                "_id": "599416c0e9b5b340e885a643"
+            }],
+            "_id": "5992a61fe9b5b3323127ffd5",
+            "name": "\u710a\u673a\u4ea7\u7ebf\u4e09"
+        }, {
+            "equipment": [{
+                "name": "\u710a\u673a\u516d",
+                "workshop_id": "59926ba9e9b5b33231a28005",
+                "factory_number": "782ABC292323",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "5992a637e9b5b3323127ffd7",
+                "factory_time": "2015-8-2",
+                "product_number": "NBC-315",
+                "_id": "599429e5e9b5b341112ebfb7"
+            }, {
+                "name": "\u710a\u673a\u4e03",
+                "workshop_id": "59926ba9e9b5b33231a28005",
+                "factory_number": "782ABC292322",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "5992a637e9b5b3323127ffd7",
+                "factory_time": "2013-5-14",
+                "product_number": "NBC-317",
+                "_id": "599437ffe9b5b341112ebfd2"
+            }],
+            "_id": "5992a637e9b5b3323127ffd7",
+            "name": "\u710a\u673a\u4ea7\u7ebf\u56db"
+        }],
+        "_id": "59926ba9e9b5b33231a28005",
+        "name": "\u710a\u673a\u8f66\u95f4\u4e8c"
+    }, {
+        "product_line": [{
+            "equipment": [{
+                "name": "\u710a\u673a\u4e8c",
+                "workshop_id": "599291e5e9b5b3323127ffbb",
+                "factory_number": "782ABC292327",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "59926bbde9b5b33231a28007",
+                "factory_time": "2017-7-14",
+                "product_number": "NBC-500C",
+                "_id": "5992a6f1e9b5b3323127ffdb"
+            }, {
+                "name": "\u710a\u673a\u4e09",
+                "workshop_id": "599291e5e9b5b3323127ffbb",
+                "factory_number": "782ABC292324",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "59926bbde9b5b33231a28007",
+                "factory_time": "2014-8-5",
+                "product_number": "NBC-315",
+                "_id": "59941664e9b5b340e885a63f"
+            }, {
+                "name": "\u710a\u673a\u5341",
+                "workshop_id": "59926b8ce9b5b33231a28001",
+                "factory_number": "782ABC292330",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "59926bbde9b5b33231a28007",
+                "factory_time": "2017-9-4",
+                "product_number": "NBC-411",
+                "_id": "59bf8272e9b5b3000ae4f1bf"
+            }],
+            "_id": "59926bbde9b5b33231a28007",
+            "name": "\u710a\u673a\u4ea7\u7ebf\u4e8c"
+        }, {
+            "equipment": [{
+                "name": "\u710a\u673a\u516b",
+                "workshop_id": "599291e5e9b5b3323127ffbb",
+                "factory_number": "782ABC292321",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "5992a65fe9b5b3323127ffd9",
+                "factory_time": "2013-5-14",
+                "product_number": "NBC-39",
+                "_id": "59943a5be9b5b341112ebfda"
+            }, {
+                "name": "\u710a\u673a\u4e5d",
+                "workshop_id": "599291e5e9b5b3323127ffbb",
+                "factory_number": "782ABC292329",
+                "factory_id": "59634a825751360333139093",
+                "line_id": "5992a65fe9b5b3323127ffd9",
+                "factory_time": "2007-12-25",
+                "product_number": "NBC-39",
+                "_id": "59943ad9e9b5b341112ebfdd"
+            }],
+            "_id": "5992a65fe9b5b3323127ffd9",
+            "name": "\u710a\u673a\u4ea7\u7ebf\u4e94"
+        }],
+        "_id": "599291e5e9b5b3323127ffbb",
+        "name": "\u710a\u673a\u8f66\u95f4\u4e00"
+    }]
+}

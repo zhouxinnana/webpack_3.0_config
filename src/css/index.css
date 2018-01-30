@@ -1,0 +1,27 @@
+body {
+    background-color: #000;
+    color: white;
+}
+#test{
+    color: #fff;
+}
+
+#tupian {
+    background-image: url(../images/logo.png);
+    width: 466px;
+    height: 453px;
+    transform: rotate(45deg);
+    display: flex;
+    flex: 1;
+    color: #fff;
+}
+
+.zhouxin {
+    color: #fff;
+}
+
+#taobao {
+    width: 20px;
+    height: 20px;
+    background: green;
+}

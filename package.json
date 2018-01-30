@@ -1,0 +1,49 @@
+{
+  "name": "webpack_3.0_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "webpack-dev-server --devtool eval --progress --colors --content-base build",
+    "dev": "set type=dev&webpack",
+    "build": "set type=build&webpack --progress --profile --colors --display-modules ",
+    "stats": "webpack --profile --json > stats.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.1.6",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "copy-webpack-plugin": "^4.2.0",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.5",
+    "html-loader": "^0.5.1",
+    "html-webpack-plugin": "^2.30.1",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "node-sass": "^4.5.3",
+    "postcss-loader": "^2.0.8",
+    "purify-css": "^1.2.5",
+    "purifycss-webpack": "^0.7.0",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.0",
+    "url-loader": "^0.6.2",
+    "vue-loader": "^13.4.0",
+    "vue-template-compiler": "^2.5.3",
+    "webpack": "^3.8.1",
+    "webpack-bundle-analyzer": "^2.9.0",
+    "webpack-dev-server": "^2.9.3"
+  },
+  "dependencies": {
+    "html-withimg-loader": "^0.1.16",
+    "jquery": "^3.2.1",
+    "vue": "^2.5.3",
+    "vue-router": "^3.0.1"
+  }
+}
